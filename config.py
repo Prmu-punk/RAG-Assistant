@@ -1,5 +1,5 @@
 #API配置
-OPENAI_API_KEY = "sk-0971878b9d3441e3845308a2bb0904dd"
+OPENAI_API_KEY = ""
 OPENAI_API_BASE = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 MODEL_NAME = "qwen-plus"
 OPENAI_EMBEDDING_MODEL = "text-embedding-v1"
