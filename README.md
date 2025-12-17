@@ -1,7 +1,5 @@
 ## 本地 App（轻量 Web UI）
 
-这个 App **不修改项目任何现有代码**，仅新增 `local_app/` 与 `run_local_app.py`。
-
 ### 启动
 
 在项目根目录执行：
